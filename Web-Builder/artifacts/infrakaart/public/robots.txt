@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://infrakaart.com/sitemap.xml
+
+Disallow: /dashboard/
+Disallow: /login
